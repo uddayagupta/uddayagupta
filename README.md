@@ -1,15 +1,15 @@
 <h1 align="center">Hey,I'm Uddaya Gupta</h1>
 <h3 align="center">A software developer from India!</h3>
 
-- 🔭 I’m currently working on **CEGIS's Inventory Management System**
+- 🔭 I’m currently working on an Inventory Management System 
 
-- 🔭 I’m also currently learning **Data Structures and Algorithms**
+- 🔭 I’m also currently learning Data Structures and Algorithms
 
-- 💬 Ask me about **anything, I am happy to help**
+- 💬 Ask me anything
 
-- 📫 Reach me out on my email, **uddayagupta@gmail.com**
+- 📫 Reach me out on my email, uddayagupta@gmail.com
 
-- ⚡ Fun fact **Gonna be a billionaire 🤑**
+- ⚡ Fun fact Gonna be a billionaire 🤑
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
